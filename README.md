@@ -41,6 +41,12 @@ pip install numpy matplotlib lmfit scipy scikit-image
 The notebook generates various plots, including density plots, fitted plots, Kittel fitting plots, and linear fitting plots, depending on your chosen analysis. The results are saved in the specified output directory.
 
 ## Credits
-This code has been developed for PhysLab @ LUMS under the supervision of Dr. Sabieh Anwar and mentorship of Dr. Adnan Raza.
+This code has been developed for PhysLab @ LUMS.
+
+Developer: Mahad Naveed
+
+Supervisior: Dr. Sabieh Anwar
+
+Mentor: Dr. Adnan Raza
 
 Explore PhysLab here: http://www.physlab.org
